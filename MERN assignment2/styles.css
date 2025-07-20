@@ -1,0 +1,63 @@
+article{
+    background-color: #222;
+}
+.header {
+    border-color: black;
+    border-width: 3px;
+    text-align: center;
+    
+    padding-bottom: 2%;
+    padding-top: 1%;
+}
+
+.container{
+    border: 3px solid beige;
+    background-color:#222;
+    height: 1000px;
+    padding: 0%;
+    margin: 0%;
+    position: relative;
+    overflow: hidden;
+}
+
+u{
+
+    color: aliceblue;
+}
+
+.box{
+     height: 200px;
+
+    width: 200px;
+    
+    background-color: brown;
+    cursor: pointer;
+    margin: auto;
+  position: absolute;
+    display: none; 
+}
+p{
+
+    margin: 2%;
+    padding: 0%;
+    
+
+}
+ #reaction-time{
+    text-align: center; 
+    color: rgb(71, 210, 71);
+    padding: 0%;
+ } 
+
+  
+ button{
+    margin-left: 50%;
+    margin-bottom: 10%;
+    
+ }
+ h2,h3{ 
+    color:rgb(118, 178, 230)
+ }
+ .intro{
+    color: azure;
+ }
